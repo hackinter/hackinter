@@ -40,4 +40,4 @@
 - I once built a drone that could fly autonomously for a project!
 
 ## 📈 Journey to Cybersecurity Specialist
-Updating: Journey to Cybersecurity Specialist.
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Journey+to+Cybersecurity+Specialist;Updating+my+skills+and+knowledge;)](https://git.io/typing-svg)
