@@ -7,7 +7,7 @@
 - Programming
 - Hacking Tools
 
-![Hacking GIF 1](https://media.giphy.com/media/l0NwQudG5YtuC3ybG/giphy.gif)
+![Hacking GIF 1](https://media.giphy.com/media/3oEjI6SIIHP3N5zXt6/giphy.gif)
 
 ## 🌱 Currently Learning
 - Python
@@ -29,9 +29,9 @@
 ## ⚡ Fun Fact
 - I once built a drone that could fly autonomously for a project!
 
-![Hacking GIF 2](https://media.giphy.com/media/3o7aD3nJ0G3lS5c6cI/giphy.gif)
+![Hacking GIF 2](https://media.giphy.com/media/fAnEC88dMv3vK/giphy.gif)
 
-![Hacking GIF 3](https://media.giphy.com/media/3oEjI6SIIHP3N5zXt6/giphy.gif)
+![Hacking GIF 3](https://media.giphy.com/media/d5aY4QRm0M8A8/giphy.gif)
 
 <!---
 hackinter/hackinter is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
