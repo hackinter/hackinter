@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @hackinter!
 
-![Welcome GIF](https://i.pinimg.com/originals/46/ce/12/46ce1235c5697ce170c6e84f4b4fb4e7.gif)
+![Welcome GIF](https://media.giphy.com/media/l0HlNnXG4Q8vO4t2I/giphy.gif)
 
 ## 👀 Interests
 - Cybersecurity
@@ -32,6 +32,9 @@
 ![Hacking GIF 2](https://media.giphy.com/media/fAnEC88dMv3vK/giphy.gif)
 
 ![Hacking GIF 3](https://media.giphy.com/media/d5aY4QRm0M8A8/giphy.gif)
+
+## 🏆 GitHub Profile Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=hackinter)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!---
 hackinter/hackinter is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
