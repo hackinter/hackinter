@@ -16,11 +16,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Passionate+about+Cybersecurity;Journey+to+become+a+Specialist;)](https://git.io/typing-svg)
 
 ## 🌱 Currently Learning
-- Bug hunting & malware forensics
-- Mobile pentesting & Web3
-- Python
-- JavaScript
-- Web Development
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Bug+hunting+%26+malware+forensics;Mobile+pentesting+%26+Web3;Python;JavaScript;Web+Development;)](https://git.io/typing-svg)
 
 ## 💞️ Looking to Collaborate on
 - Managing tech communities
