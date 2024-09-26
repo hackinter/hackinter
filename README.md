@@ -14,7 +14,7 @@
 ## 📫 How to Reach Me
 - 📧 Email: ceh.ec.counselor147@gmail.com
 - 🐙 GitHub: [@hackinter](https://github.com/hackinter)
-- 🐦 Twitter: [@anonix__z](https://twitter.com/anonix__z)
+- 🐦 Twitter: [@_anonix_z](https://twitter.com/_anonix_z)
 
 ## 😄 Pronouns
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=He/Him;&color=39d609&fontSize=30)](https://git.io/typing-svg)
