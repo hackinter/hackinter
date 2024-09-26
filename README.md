@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @hackinter!
 
-![Welcome GIF](https://cdn.dribbble.com/users/3556928/screenshots/8726854/glitch-trial.gif)
+![Welcome GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWN1aG53NW00dTRlZ2pqcjNrZmx0ZTg5NXFva3dsY3ZlYzBsZjQ2diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oEjHWbXcpeKhTktXi/giphy.webp)
 
 ## 👀 Interests
 - Cybersecurity
@@ -29,7 +29,7 @@
 ## ⚡ Fun Fact
 - I once built a drone that could fly autonomously for a project!
 
-![Hacking GIF 2](https://i.pinimg.com/originals/75/c2/f8/75c2f842863ae2df6b3ac2d0a4d63026.gif)
+![Hacking GIF 2](https://cdn.dribbble.com/users/3556928/screenshots/8726854/glitch-trial.gif)
 
 
 
