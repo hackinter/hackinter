@@ -1,13 +1,13 @@
 # 👋 Hi, I’m @hackinter!
 
-![Welcome GIF](https://media.giphy.com/media/l0HlNnXG4Q8vO4t2I/giphy.gif)
+![Welcome GIF](https://cdn.dribbble.com/users/3556928/screenshots/8726854/glitch-trial.gif)
 
 ## 👀 Interests
 - Cybersecurity
 - Programming
 - Hacking Tools
 
-![Hacking GIF 1](https://media.giphy.com/media/3oEjI6SIIHP3N5zXt6/giphy.gif)
+![Hacking GIF 1](https://media3.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=6c09b9526diabe2a5ye0ig510k1wdo36o19rb6gdogdydfou&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g)
 
 ## 🌱 Currently Learning
 - Python
@@ -29,12 +29,10 @@
 ## ⚡ Fun Fact
 - I once built a drone that could fly autonomously for a project!
 
-![Hacking GIF 2](https://media.giphy.com/media/fAnEC88dMv3vK/giphy.gif)
+![Hacking GIF 2](https://i.pinimg.com/originals/75/c2/f8/75c2f842863ae2df6b3ac2d0a4d63026.gif)
 
-![Hacking GIF 3](https://media.giphy.com/media/d5aY4QRm0M8A8/giphy.gif)
 
-## 🏆 GitHub Profile Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=hackinter)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <!---
 hackinter/hackinter is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
