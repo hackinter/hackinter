@@ -37,7 +37,7 @@
 - He/Him
 
 ## ⚡ Fun Fact
-- I once built a drone that could fly autonomously for a project!
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+once+built+a+drone+that+could+fly+autonomously+for+a+project!)](https://git.io/typing-svg)
 
 ## 📈 Journey to Cybersecurity Specialist
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Journey+to+Cybersecurity+Specialist;Updating+my+skills+and+knowledge;)](https://git.io/typing-svg)
