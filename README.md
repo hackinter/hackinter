@@ -1,6 +1,5 @@
 # 👋 Hi, I’m @hackinter!
 
-![Visitor Count](https://profile-counter.glitch.me/mao2116/count.svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+profile;I+am+a+Cybersecurity+Enthusiast!&color=39d609&fontSize=30)](https://git.io/typing-svg)
 
@@ -26,3 +25,10 @@
 
 ## 📈 Journey to Cybersecurity Specialist
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Journey+to+Cybersecurity+Specialist;Updating+my+skills+and+knowledge;&color=39d609&fontSize=30)](https://git.io/typing-svg)
+
+<h4>
+<i>VISITORS :-)</i>
+</h4>
+
+
+![Visitor Count](https://profile-counter.glitch.me/hackinter/count.svg)
