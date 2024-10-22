@@ -1,5 +1,6 @@
-# 👋 Hi, I’m @hackinter!
+<img src="https://tryhackme-badges.s3.amazonaws.com/hackinter.png" alt="Your Image Badge" />
 
+# 👋 Hi, I’m @hackinter!
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+profile;I+am+a+Cybersecurity+Enthusiast!&color=39d609&fontSize=30)](https://git.io/typing-svg)
 
@@ -16,10 +17,10 @@
 - 📧 Email: ceh.ec.counselor147@gmail.com
 - 🐙 GitHub: [@hackinter](https://github.com/hackinter)
 - 🐦 Twitter: [@_anonix_z](https://twitter.com/_anonix_z)
+
 <h4>
 <i>VISITORS :-)</i>
 </h4>
-
 
 ![Visitor Count](https://profile-counter.glitch.me/hackinter/count.svg)
 
@@ -31,4 +32,3 @@
 
 ## 📈 Journey to Cybersecurity Specialist
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Journey+to+Cybersecurity+Specialist;Updating+my+skills+and+knowledge;&color=39d609&fontSize=30)](https://git.io/typing-svg)
-
