@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @hackinter!
+# 👋 Hi, I’m @HACKINTER!
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/hackinter.png" alt="Your Image Badge" />
 
