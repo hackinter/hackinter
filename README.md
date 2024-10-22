@@ -28,7 +28,7 @@
 
 
 <h4>
-<i>👨‍💻VISITORS🧑‍💻</i>
+<b>👨‍💻VISITORS🧑‍💻</b>
 </h4>
 
 ![Visitor Count](https://profile-counter.glitch.me/hackinter/count.svg)
