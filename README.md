@@ -1,7 +1,6 @@
 # 👋 Hi, I’m @HACKINTER!
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3676483" style='border:none;'></iframe>
-
+<img src="https://tryhackme-badges.s3.amazonaws.com/hackinter.png" alt="Your Image Badge" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+profile;I+am+a+Cybersecurity+Enthusiast!&color=39d609&fontSize=30)](https://git.io/typing-svg)
 
