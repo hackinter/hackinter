@@ -15,29 +15,21 @@
 
 ## 📫 How to Reach Me
 <p align="center">
-  <span>
-    <a href="https://twitter.com/_anonix_z" target="blank">
-      <img align="center" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-    </a>
-  </span>
-  <span>
-    <a href="https://tryhackme.com/p/hackinter" target="blank">
-      <img align="center" src="https://img.shields.io/badge/TryHackMe-212C42.svg?style=for-the-badge&logo=TryHackMe&logoColor=white" alt="TryHackMe" />
-    </a>
-  </span>
-  <span>
-    <a href="https://t.me/hackinter0" target="blank">
-      <img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-    </a>
-  </span>
-  <span>
-    <a href="mailto:ceh.ec.counselor147@gmail.com" style="display:none;"></a>
-  </span>
-  <span>
-    <a href="https://github.com/hackinter">
-      <img title="GitHub" src="https://img.shields.io/badge/GitHub-@hackinter-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-  </span>
+  <a href="https://twitter.com/_anonix_z" target="blank">
+    <img align="center" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://tryhackme.com/p/hackinter" target="blank">
+    <img align="center" src="https://img.shields.io/badge/TryHackMe-212C42.svg?style=for-the-badge&logo=TryHackMe&logoColor=white" alt="TryHackMe" />
+  </a>
+  <a href="https://t.me/hackinter0" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="mailto:ceh.ec.counselor147@gmail.com" target="blank">
+    <img title="Email" src="https://img.shields.io/badge/Email-Contact%20Me-lightgrey?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
+  <a href="https://github.com/hackinter" target="blank">
+    <img title="GitHub" src="https://img.shields.io/badge/GitHub-@hackinter-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
 
