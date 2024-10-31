@@ -1,6 +1,20 @@
 # 👋 Hi, I’m @HACKINTER!
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/HACKINTER.png" alt="Your Image Badge" />
+<p align="center">
+  <a href="https://twitter.com/_anonix_z" target="blank">
+    <img align="center" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://linkedin.com/in/sk_md_adil_71" target="blank">
+    <img align="center" src="https://img.shields.io/badge/-LinkedIn-2867B2?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://tryhackme.com/p/hackinter" target="blank">
+    <img align="center" src="https://img.shields.io/badge/TryHackMe-212C42.svg?style=for-the-badge&logo=TryHackMe&logoColor=white" alt="TryHackMe" />
+  </a>
+  <a href="https://t.me/hackinter0" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+</p>
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+profile;I+am+a+Cybersecurity+Enthusiast!&color=39d609&fontSize=30)](https://git.io/typing-svg)
 
