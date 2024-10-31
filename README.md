@@ -28,12 +28,13 @@
     <img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
   <a href="mailto:ceh.ec.counselor147@gmail.com">
-    <img title="Email" src="https://img.shields.io/badge/Email-ceh.ec.counselor147@gmail.com-lightgrey?style=for-the-badge&logo=gmail">
+    <img title="Email" src="https://img.shields.io/badge/Email-ceh.ec.counselor147@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/hackinter">
-    <img title="GitHub" src="https://img.shields.io/badge/GitHub-@hackinter-lightgrey?style=for-the-badge&logo=github">
+    <img title="GitHub" src="https://img.shields.io/badge/GitHub-@hackinter-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
+
 
 <h3>
 <b>👨‍💻VISITORS🧑‍💻</b>
