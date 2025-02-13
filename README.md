@@ -19,23 +19,34 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Managing+tech+communities;Content+creation;Writing+useful+tools;Building+%26+contributing+to+open-source+projects;&color=39d609&fontSize=30)](https://git.io/typing-svg)
 
 ## 📫 How to Reach Me
-<p align="center">
-  <a href="https://twitter.com/_anonix_z" target="blank">
-    <img align="center" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://tryhackme.com/p/hackinter" target="blank">
-    <img align="center" src="https://img.shields.io/badge/TryHackMe-212C42.svg?style=for-the-badge&logo=TryHackMe&logoColor=white" alt="TryHackMe" />
-  </a>
-  <a href="https://t.me/hackinter0" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-  <a href="mailto:ceh.ec.counselor147@gmail.com" target="blank">
-    <img title="Email" src="https://img.shields.io/badge/Email-Contact%20Me-lightgrey?style=for-the-badge&logo=gmail" alt="Email" />
-  </a>
-  <a href="https://github.com/hackinter" target="blank">
-    <img title="GitHub" src="https://img.shields.io/badge/GitHub-@hackinter-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+
+<a href="https://twitter.com/_anonix_z">
+  <img align="left" alt="HACKINTER's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://linkedin.com/in/no_acca">
+  <img align="left" alt="HACKINTER's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/hackinter">
+  <img align="left" alt="HACKINTER's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://t.me/HACKINERS">
+  <img align="left" alt="HACKINTER's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+<a href="https://instagram.com/sudorootme/">
+  <img align="left" alt="HACKINTER's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.facebook.com/sudorootme/">
+  <img align="left" alt="HACKINTER's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+<a href="https://www.youtube.com/no_yt/">
+  <img align="left" alt="HACKINTER's YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a>
+<a href="https://tryhackme.com/p/HACKINTER">
+  <img align="left" alt="HACKINTER's TryHackMe" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tryhackme.svg" />
+</a>
+<a href="mailto:ceh.ec.counselor147@gmail.com">
+  <img align="left" alt="HACKINTER's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
 
 
 <h3>
