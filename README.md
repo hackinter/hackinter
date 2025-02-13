@@ -41,9 +41,6 @@
 <a href="https://www.youtube.com/no_yt/">
   <img align="left" alt="HACKINTER's YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
-<a href="https://tryhackme.com/p/HACKINTER">
-  <img align="left" alt="HACKINTER's TryHackMe" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tryhackme.svg" />
-</a>
 <a href="mailto:ceh.ec.counselor147@gmail.com">
   <img align="left" alt="HACKINTER's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
