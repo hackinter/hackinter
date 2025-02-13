@@ -46,9 +46,10 @@
 </a>
 
 
-<h3>
-<b>👨‍💻VISITORS🧑‍💻</b>
-</h3>
+
+
+## 👨‍💻VISITORS🧑‍💻
+
 
 ![Visitor Count](https://profile-counter.glitch.me/hackinter/count.svg)
 
