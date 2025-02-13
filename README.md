@@ -59,12 +59,6 @@
   <a href="https://www.android.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="Android" width="50" height="50"/>
   </a>
-  <a href="https://www.kali.org/" target="_blank">
-    <img src="https://www.kali.org/tools/icons/kali-linux.svg" alt="Kali Linux" width="50" height="50"/>
-  </a>
-  <a href="https://www.wireshark.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/66/Wireshark_icon.svg" alt="Wireshark" width="50" height="50"/>
-  </a>
 </p>
 
 ---
@@ -100,8 +94,8 @@
 ---
 
 ## 🧑‍💻 **Profile Visitors**
-![Visitor Count](https://profile-counter.glitch.me/hackinter/count.svg)
-![Total Visitor](https://komarev.com/ghpvc/?hackinter=hackinter&style=flat-square)
+![Visitor Count](https://profile-counter.glitch.me/hackinter/count.svg)  
+![Total Visitor](https://komarev.com/ghpvc/?username=hackinter&style=flat-square)
 
 ---
 
