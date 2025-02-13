@@ -64,7 +64,7 @@
 ---
 
 ## 📫 **How to Reach Me**
-<p align="left">
+<p align="center">
   <a href="https://twitter.com/_anonix_z">
     <img alt="Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>
   </a>
@@ -95,7 +95,6 @@
 
 ## 🧑‍💻 **Profile Visitors**
 ![Visitor Count](https://profile-counter.glitch.me/hackinter/count.svg)  
-![Total Visitor](https://komarev.com/ghpvc/?username=hackinter&style=flat-square)
 
 ---
 
