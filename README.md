@@ -114,6 +114,10 @@ I am committed to building a **safer internet** where privacy and security are p
 
 ---
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ahackinter&show_icons=true&theme=gotham" alt="hackinter" />
+
+---
+
 ## 🧑‍💻 **Profile Visitors**
 ![Visitor Count](https://profile-counter.glitch.me/hackinter/count.svg)  
 
