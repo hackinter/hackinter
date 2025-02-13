@@ -113,7 +113,7 @@ I am committed to building a **safer internet** where privacy and security are p
 </p>
 
 ---
-📈 my github stats
+📈 My Guthub Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hackinter&show_icons=true&theme=gotham" alt="hackinter" />
 
