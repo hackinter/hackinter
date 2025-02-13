@@ -7,14 +7,12 @@
 # 👋 Hi, I’m **@HACKINTER**
 <img align="center" alt="GIF" src="https://github.com/hackinter/Template/blob/main/code.gif?raw=true" width="500" height="320" />
 
-
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+profile;I+am+a+Cybersecurity+Enthusiast!&color=39d609&fontSize=30)](https://git.io/typing-svg)
 
 ---
 
-
 ## 🚀 **About Me**
-Hello, I'm **@HACKINTER**, a passionate and dedicated **Cybersecurity Enthusiast** and **Ethical Hacker**. My primary goal is to contribute to the security community by developing open-source tools, conducting thorough bug hunting, and focusing on malware forensics and web security. 
+Hello, I'm **@HACKINTER**, a passionate and dedicated **Cybersecurity Enthusiast** and **Ethical Hacker**. My primary goal is to contribute to the security community by developing open-source tools, conducting thorough bug hunting, and focusing on malware forensics and web security.
 
 - 🔥 Deeply passionate about **Cybersecurity**, with a strong focus on **Ethical Hacking** and **Penetration Testing**.
 - 🛠️ Constantly building and contributing to **open-source security tools** that help enhance online safety and privacy.
@@ -37,7 +35,6 @@ I am committed to building a **safer internet** where privacy and security are p
 - 🔍 **Continuous Learning**: Staying updated with the latest trends and tools in cybersecurity and ethical hacking.
 
 ---
-
 
 ## 👀 **Interests**
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Cybersecurity;Programming;Hacking+Tools;&color=39d609&fontSize=30)](https://git.io/typing-svg)
@@ -113,14 +110,15 @@ I am committed to building a **safer internet** where privacy and security are p
 </p>
 
 ---
-📈 My Guthub Stats
+
+📈 **My GitHub Stats**
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hackinter&show_icons=true&theme=gotham" alt="hackinter" />
 
 ---
 
 ## 🧑‍💻 **Profile Visitors**
-![Visitor Count](https://profile-counter.glitch.me/hackinter/count.svg)  
+![Visitor Count](https://profile-counter.glitch.me/hackinter/count.svg)
 
 ---
 
