@@ -39,8 +39,6 @@ I am committed to building a **safer internet** where privacy and security are p
 ---
 
 
----
-
 ## 👀 **Interests**
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Cybersecurity;Programming;Hacking+Tools;&color=39d609&fontSize=30)](https://git.io/typing-svg)
 
