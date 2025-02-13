@@ -14,10 +14,30 @@
 
 
 ## 🚀 **About Me**
-- 🔥 Passionate about **Cybersecurity & Ethical Hacking**
-- 🛠️ Building open-source security tools
-- 📚 Always learning & exploring new technologies
-- 🎯 Focused on **Bug Hunting, Malware Forensics, and Web Security**
+Hello, I'm **@HACKINTER**, a passionate and dedicated **Cybersecurity Enthusiast** and **Ethical Hacker**. My primary goal is to contribute to the security community by developing open-source tools, conducting thorough bug hunting, and focusing on malware forensics and web security. 
+
+- 🔥 Deeply passionate about **Cybersecurity**, with a strong focus on **Ethical Hacking** and **Penetration Testing**.
+- 🛠️ Constantly building and contributing to **open-source security tools** that help enhance online safety and privacy.
+- 📚 A lifelong learner, I am always eager to explore new **technologies** and improve my skills in **cybersecurity**.
+- 🎯 My primary areas of focus include **Bug Hunting**, **Malware Forensics**, and **Web Security**.
+- 🌐 Actively exploring emerging fields like **Mobile Penetration Testing**, **Web3 Security**, and **Blockchain Forensics**.
+
+---
+
+## 🎯 **Mission & Vision**
+I aim to empower individuals and organizations to stay safe in the digital world by equipping them with the tools and knowledge needed to defend against cyber threats. My vision is to continue advancing the field of cybersecurity through my research, bug hunting efforts, and collaborations with the global tech community.
+
+I am committed to building a **safer internet** where privacy and security are prioritized for all users.
+
+---
+
+## 🚀 **What Drives Me**
+- 🛠️ **Innovation in Cybersecurity**: Exploring new attack vectors, vulnerabilities, and defending against emerging threats.
+- 💡 **Open-Source Contribution**: Building and sharing tools that enable others to learn and defend against cyber-attacks.
+- 🔍 **Continuous Learning**: Staying updated with the latest trends and tools in cybersecurity and ethical hacking.
+
+---
+
 
 ---
 
