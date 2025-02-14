@@ -32,8 +32,15 @@
 
 <h3 align="center">Tools & Technologies:</h3>
 <p align="center">
+  <!-- Hacking Platforms -->
+  <a href="https://tryhackme.com/" target="_blank"><img src="https://assets.tryhackme.com/img/THMlogo.png" alt="tryhackme" width="40" height="40"/></a>
+  <a href="https://www.hackthebox.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/HTB_logo.png" alt="hackthebox" width="40" height="40"/></a>
+
+  <!-- Hacking OS -->
   <a href="https://www.kali.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" alt="kali-linux" width="40" height="40"/></a>
   <a href="https://www.parrotsec.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Parrot_Logo.png" alt="parrot-os" width="40" height="40"/></a>
+
+  <!-- Programming Languages -->
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
   <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
@@ -44,11 +51,19 @@
   <a href="https://isocpp.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
   <a href="https://www.ruby-lang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/></a>
   <a href="https://www.perl.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/perl/perl-original.svg" alt="perl" width="40" height="40"/></a>
+
+  <!-- Databases -->
   <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
   <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/></a>
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/></a>
+
+  <!-- DevOps Tool -->
+  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/></a>
+
+  <!-- Code Editor -->
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="vscode" width="40" height="40"/></a>
 </p>
+
 
 
 
