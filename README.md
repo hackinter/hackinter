@@ -85,10 +85,6 @@
 [![](https://visitcount.itsvg.in/api?id=HACKINTER&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
-<a href="#">
-  <img alt="My Languages"  align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josemlwdf&show_icons=true&theme=chartreuse-dark&size_weight=0.5&count_weight=0.5&layout=compact&hide_progress=true"/>
-</a>
----
 
 ## 📫 **How to Reach Me**
 <p align="center">
