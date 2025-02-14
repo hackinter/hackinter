@@ -107,6 +107,10 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hackinter&theme=redical" alt="GitHub Activity Graph"/>
+</p>
+
 ---
 
 ## 🚀 **About Me**
