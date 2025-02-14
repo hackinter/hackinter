@@ -32,7 +32,6 @@
 
 <h3 align="center">Tools & Technologies:</h3>
 <p align="center">
-  <!-- Hacking Platforms -->
   <a href="https://tryhackme.com/" target="_blank"><img src="https://assets.tryhackme.com/img/THMlogo.png" alt="tryhackme" width="40" height="40"/></a>
   <a href="https://www.hackthebox.com/" target="_blank"><img src="https://github.com/hackinter/Template/blob/main/hack-the-box.svg" alt="hackthebox" width="40" height="40"/></a>
   <a href="https://www.kali.org/" target="_blank"><img src="https://github.com/hackinter/Template/blob/main/SVG/kali-linux.svg" alt="kali-linux" width="40" height="40"/></a>
@@ -51,8 +50,17 @@
   <a href="https://www.mysql.com/" target="_blank"><img src="https://github.com/hackinter/Template/blob/main/SVG/my-sql.svg" alt="mysql" width="40" height="40"/></a>
   <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/></a>
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/></a>
+  <a href="https://mariadb.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg" alt="mariadb" width="40" height="40"/></a>
+  <a href="https://www.sqlite.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40"/></a>
+  <a href="https://www.oracle.com/database/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/></a>
+  <a href="https://aws.amazon.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/></a>
+  <a href="https://cloud.google.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="google-cloud" width="40" height="40"/></a>
   <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/></a>
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://github.com/hackinter/Template/blob/main/SVG/visual-studio-code.svg" alt="vscode" width="40" height="40"/></a>
+  <a href="https://www.android.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" width="40" height="40"/></a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="40" height="40"/></a>
 </p>
 
 
