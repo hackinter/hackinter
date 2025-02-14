@@ -107,11 +107,6 @@
 </p>
 
 ---
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hackinter&theme=redical" alt="GitHub Activity Graph"/>
-</p>
-
----
 
 ## 🚀 **About Me**
 Hello, I'm **@HACKINTER**, a passionate and dedicated **Cybersecurity Enthusiast** and **Ethical Hacker**. My primary goal is to contribute to the security community by developing open-source tools, conducting thorough bug hunting, and focusing on malware forensics and web security.
@@ -149,3 +144,7 @@ I am committed to building a **safer internet** where privacy and security are p
 
 ## 📈 **Journey to Cybersecurity Specialist**
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Updating+my+skills+and+knowledge;&color=39d609&fontSize=30)](https://git.io/typing-svg)
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hackinter&theme=redical" alt="GitHub Activity Graph"/>
+</p>
