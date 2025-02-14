@@ -32,31 +32,21 @@
 
 <h3 align="center">Tools & Technologies:</h3>
 <p align="center">
-  <!-- Hacking Platforms -->
-  <a href="https://tryhackme.com/" target="_blank"><img src="https://assets.tryhackme.com/img/THMlogo.png" alt="tryhackme" width="40" height="40"/></a>
-  <a href="https://www.hackthebox.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/HTB_logo.png" alt="hackthebox" width="40" height="40"/></a>
-
-  <!-- Hacking Focused Operating Systems -->
   <a href="https://www.kali.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" alt="kali-linux" width="40" height="40"/></a>
   <a href="https://www.parrotsec.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Parrot_Logo.png" alt="parrot-os" width="40" height="40"/></a>
-  <a href="https://blackarch.org/" target="_blank"><img src="https://blackarch.org/images/blackarch-logo.png" alt="blackarch-linux" width="40" height="40"/></a>
-
-  <!-- Hacking Friendly Programming Languages -->
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+  <a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
+  <a href="https://golang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="golang" width="40" height="40"/></a>
   <a href="https://www.rust-lang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/></a>
+  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
   <a href="https://isocpp.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
   <a href="https://www.ruby-lang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/></a>
   <a href="https://www.perl.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/perl/perl-original.svg" alt="perl" width="40" height="40"/></a>
-
-  <!-- Hacking Tools -->
-  <a href="https://portswigger.net/burp" target="_blank"><img src="https://avatars.githubusercontent.com/u/4354359?s=280&v=4" alt="burp-suite" width="40" height="40"/></a>
-  <a href="https://www.metasploit.com/" target="_blank"><img src="https://www.offsec.com/assets/uploads/sites/2/2022/09/metasploit-pro.png" alt="metasploit" width="40" height="40"/></a>
-  <a href="https://nmap.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/07/Nmap_logo.svg" alt="nmap" width="40" height="40"/></a>
-  <a href="https://www.wireshark.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Wireshark_icon.svg" alt="wireshark" width="40" height="40"/></a>
-  <a href="https://github.com/sqlmapproject/sqlmap" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/5/57/Sqlmap_logo.png" alt="sqlmap" width="40" height="40"/></a>
-  <a href="https://www.aircrack-ng.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Aircrack-ng_logo.svg" alt="aircrack-ng" width="40" height="40"/></a>
-
-  <!-- Code Editor -->
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/></a>
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="vscode" width="40" height="40"/></a>
 </p>
 
