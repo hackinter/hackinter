@@ -60,11 +60,12 @@
 
 # 📊 GitHub Stats:
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=HACKINTER&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true" alt="HACKINTER Stats" style="border-radius: 8px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);" /><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HACKINTER&theme=highcontrast&hide_border=true" alt="HACKINTER" style="border-radius: 8px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HACKINTER&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="HACKINTER Languages" style="border-radius: 8px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);" />
+<p align="lift">
+  <img src="https://github-readme-stats.vercel.app/api?username=HACKINTER&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true" alt="HACKINTER Stats" /><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HACKINTER&theme=highcontrast&hide_border=false" alt="HACKINTER Streak" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HACKINTER&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="HACKINTER Languages" />
 </p>
+
 
 
 
